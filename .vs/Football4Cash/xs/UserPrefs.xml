@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{72B3ADC2-9BA7-48F3-AC20-EE8B879D7E96}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Football4Cash/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Football4Cash/Views/Home/Index.cshtml">
     <Files>
       <File FileName="Football4Cash/Controllers/HomeController.cs" Line="27" Column="43" />
+      <File FileName="Football4Cash/Views/Home/Register.cshtml" Line="21" Column="79" />
+      <File FileName="Football4Cash/Views/Home/Index.cshtml" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Football4Cash" expanded="True">
             <Node name="Football4Cash" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
             </Node>
