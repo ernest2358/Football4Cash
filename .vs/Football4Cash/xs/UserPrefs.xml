@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{72B3ADC2-9BA7-48F3-AC20-EE8B879D7E96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Football4Cash/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Football4Cash/Controllers/HomeController.cs" Line="27" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Football4Cash" expanded="True">
+            <Node name="Football4Cash" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Football4Cash PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ernestbell/Desktop/CSNet/Football4Cash/Football4Cash/Football4Cash.csproj": {}
+  },
+  "projects": {
+    "/Users/ernestbell/Desktop/CSNet/Football4Cash/Football4Cash/Football4Cash.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ernestbell/Desktop/CSNet/Football4Cash/Football4Cash/Football4Cash.csproj",
+        "projectName": "Football4Cash",
+        "projectPath": "/Users/ernestbell/Desktop/CSNet/Football4Cash/Football4Cash/Football4Cash.csproj",
+        "packagesPath": "/Users/ernestbell/.nuget/packages/",
+        "outputPath": "/Users/ernestbell/Desktop/CSNet/Football4Cash/Football4Cash/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ernestbell/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
